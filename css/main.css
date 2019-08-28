@@ -2844,19 +2844,19 @@ video {
 }
 
 .about-process .item-process__header--planning::before {
-  background-image: url(../images/icons/9-diagram.svg);
+  background-image: url(../images/icons/diagram.svg);
 }
 
 .about-process .item-process__header--branding::before {
-  background-image: url(../images/icons/30-design.svg);
+  background-image: url(../images/icons/design.svg);
 }
 
 .about-process .item-process__header--implementation::before {
-  background-image: url(../images/icons/9-online%20manual.svg);
+  background-image: url(../images/icons/onlinemanual.svg);
 }
 
 .about-process .item-process__header--documentation::before {
-  background-image: url(../images/icons/50-support%20agreement.svg);
+  background-image: url(../images/icons/supportagreement.svg);
 }
 
 
